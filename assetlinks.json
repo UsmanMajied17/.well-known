@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.usman.cv.base",
+    "sha256_cert_fingerprints":
+    ["F4:74:CC:DD:51:DB:E7:A9:4A:10:06:9D:5D:E9:D3:28:98:C1:5F:33:E1:9E:28:31:3D:EE:F8:7B:DD:E8:BF:68"]
+  }
+}]
